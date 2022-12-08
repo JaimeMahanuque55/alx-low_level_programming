@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - Main function of my project
  *
  *
