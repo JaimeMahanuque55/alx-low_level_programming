@@ -16,5 +16,5 @@ int main(void)
 
 	strcpy(displayed, "\"Programming is like building a multilingual puzzle");
 	puts(displayed);
-	return(0);
+	return (0);
 }
