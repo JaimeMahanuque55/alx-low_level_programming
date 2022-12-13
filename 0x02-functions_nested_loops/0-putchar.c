@@ -1,19 +1,20 @@
-#include <stdio.h>
+#include "main.h";
 /**
- * main - this is the entry of the program
+ * main - Entry point
  *
- * Return: return 0
+ * Return: always 0
  */
 int main(void)
 {
-	char *pt = "_putchar";
-
-	while (*pt)
-	{
-		putchar(*pt);
-		pt++;
-	}
-	putchar('\n');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
 	return (0);
 }
